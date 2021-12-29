@@ -11,7 +11,7 @@ const defaultMenu = {
      ✪〔 %me 〕✪
 🔸Hai, %name!
 
-🔸 Github: [ RELEASING SOON ]
+🔸 Github: [ LOL ]
 
 
      〘 *WIZARD SER* 〙
@@ -168,8 +168,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `ᴡɪᴢᴀʀᴅ sᴇʀ  ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ,
-┌─────❲ *ᴡɪᴢᴀʀᴅ sᴇʀ* ❳
+          "title": `YANZ SIR ʙʏ YANZ ᴀɴᴅ ᴀᴄʜᴜ,
+┌─────❲ *YANZ BOT* ❳
 ┊
 └─────────────────❋ཻུ۪۪⸙
         
@@ -184,9 +184,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┊☞ 🧭 *TIME* : ${time},
 ┊☞ 💫 *WEEK* : ${week},
 ┊☞ ✅ *DATE* : ${date},
-┊☞ 💝 *OWNER* : ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
+┊☞ 💝 *OWNER* : YANZ BOTZ
 ┊☞ 🖌️ *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
-┊☞ ☮️ *BOT NAME* : ᴡɪᴢᴀʀᴅ sᴇʀ
+┊☞ ☮️ *BOT NAME* : YANZ BOTZ
 └─────────────────⸙ \n\ ______`
           
            .trim(),
