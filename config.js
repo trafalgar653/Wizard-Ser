@@ -37,7 +37,7 @@ global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://i.imgur.com/707WLbK.jpeg'
 
-global.watermark = '© Wizard-Ser'
+global.watermark = '© Yanz BOTZ'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
